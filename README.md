@@ -206,15 +206,15 @@ https://edge.forgecdn.net/files/6657/544/doolegends-alpha-v1-0-5.mcaddon?ft=604f
 
 https://www.curseforge.com/minecraft-bedrock/addons/rpg-quest-2/download/6964986
 
+https://edge.forgecdn.net/files/7187/648/m%cc%b5i%cc%b4n%cc%b4e%cc%b6c%cc%b8r%cc%b6a%cc%b4f%cc%b7t%cc%b4.mcaddon?ft=604ff2f6296f72a5597d6a2cb7cf70ab&bd=vgkextdwgk
 
+https://www.curseforge.com/minecraft-bedrock/addons/blood-rot/download/7191026
 
+https://www.curseforge.com/minecraft-bedrock/addons/experiment-8-beta/download/6948863
 
+https://edge.forgecdn.net/files/7176/576/ForebodingProjecct_v1.1.0.mcaddon?ft=604ff2f6296f72a5597d6a2cb7cf70ab&bd=vgkextdwgk
 
-
-
-
-
-
+https://edge.forgecdn.net/files/7187/648/m%cc%b5i%cc%b4n%cc%b4e%cc%b6c%cc%b8r%cc%b6a%cc%b4f%cc%b7t%cc%b4.mcaddon?ft=604ff2f6296f72a5597d6a2cb7cf70ab&bd=vgkextdwgk
 
 
 
