@@ -222,3 +222,7 @@ https://www.curseforge.com/minecraft-bedrock/addons/water-is-lava/download/65548
 (https://www.curseforge.com/minecraft-bedrock/addons/water-rises-every-30-seconds/download/6607111)
 
 https://www.curseforge.com/minecraft-bedrock/addons/mvs-moogs-voyager-structures-bedrock-port/download/7143871
+
+https://www.curseforge.com/minecraft-bedrock/addons/natural-structure-redone/download/6954807
+
+https://www.curseforge.com/minecraft-bedrock/addons/explorify-structures/download/6759102
