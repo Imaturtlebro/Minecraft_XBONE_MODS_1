@@ -218,6 +218,6 @@ https://edge.forgecdn.net/files/7187/648/m%cc%b5i%cc%b4n%cc%b4e%cc%b6c%cc%b8r%cc
 
 https://www.curseforge.com/minecraft-bedrock/addons/water-is-lava/download/6554873
 
-https://www.curseforge.com/minecraft-bedrock/addons/water-rises-every-30-seconds
 
+(https://www.curseforge.com/minecraft-bedrock/addons/water-rises-every-30-seconds/download/6607111)
 
