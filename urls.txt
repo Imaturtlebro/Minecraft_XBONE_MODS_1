@@ -1,0 +1,462 @@
+
+1. CORE GAMEPLAY & SURVIVAL MECHANICS
+
+(Mods that fundamentally change the survival experience and add new challenges.)
+
+AI Players (The Core Social/Threat Mod):
+
+https://mcpedl.com/heroxl-ai-players-slug-206/ or https://www.curseforge.com/minecraft-bedrock/addons/heroxl-ai-players-slug-206
+
+Survival Mechanics:
+
+https://mcpedl.com/thirst-fws/
+
+https://www.curseforge.com/minecraft-bedrock/addons/survival-expanded-climate-conditions
+
+General Gameplay Enhancements:
+
+https://mcpedl.com/better-on-bedrock/
+
+2. WORLD OVERHAUL: BIOMES, STRUCTURES & EXPLORATION
+
+(Mods that create a vast, diverse, and history-rich world to explore.)
+
+Major Content & World Overhauls:
+
+https://mcpedl.com/forsaken-odyssey/ (Nico's combined mod)
+
+https://mcpedl.com/new-adventure-plus-addon/
+
+https://www.curseforge.com/minecraft-bedrock/addons/better-adventures
+
+https://www.curseforge.com/minecraft-bedrock/addons/legends-of-cenarax
+
+Biome Expansions:
+
+https://mcpedl.com/simple-biomes-expansion/ (Note: Duplicate link in original list)
+
+https://mcpedl.com/nether-biomes-expansion/
+
+https://mcpedl.com/micro-biomes-add-on-1/
+
+https://www.curseforge.com/minecraft-bedrock/addons/mythical-biomes
+
+https://www.curseforge.com/minecraft-bedrock/addons/biomify
+
+https://www.curseforge.com/minecraft-bedrock/addons/neoecologicalcraft
+
+Cave & Underground Expansions:
+
+https://mcpedl.com/cavern-calamity-add-on-cave-update-add-on/
+
+https://mcpedl.com/tempered-in-flame-nether-update-add-on/
+
+https://www.curseforge.com/minecraft-bedrock/addons/nicos-cave-expansion
+
+https://mcpedl.com/nicos-more-mineshaft/ (Note: Duplicate link in original list)
+
+Structure Generation:
+
+https://www.curseforge.com/minecraft-bedrock/addons/ruins-addon
+
+https://mcpedl.com/recurrent-complex/ or https://www.curseforge.com/minecraft-bedrock/addons/recurrent-complex
+
+https://mcpedl.com/structures-arise-modpack-made-with-autobe/
+
+https://mcpedl.com/ruins-addon/
+
+https://mcpedl.com/more-simple-structures-addon/
+
+https://mcpedl.com/red-s-more-structures-addon/
+
+https://www.curseforge.com/minecraft-bedrock/addons/forgotten-ruins-structure
+
+https://mcpedl.com/mvs-moogs-voyager-structures-bedrock-port/
+
+https://www.curseforge.com/minecraft-bedrock/addons/nico-s-more-dungeon
+
+https://mcpedl.com/abandoned-ruin-structures/
+
+https://mcpedl.com/abandoned-structures/
+
+Flora & Fauna:
+
+https://mcpedl.com/more-tree-variants-addon/
+
+https://www.curseforge.com/minecraft-bedrock/addons/the-wild-features-addon
+
+3. HOSTILE & AMBIENT THREATS
+
+(Mods focused on new enemies, zombie apocalypses, and terrifying creatures.)
+
+Zombie Apocalypse & Horror:
+
+https://mcpedl.com/true-survival-zombie-apocalypse-addon/
+
+https://mcpedl.com/tissous-zombie-bedrock-port/
+
+https://mcpedl.com/winter-zombie-apocalypse-v1/
+
+https://mcpedl.com/one-hundred-days-later/
+
+https://mcpedl.com/more-zombies
+
+Disease & Infection Mechanics:
+
+https://mcpedl.com/mustard-virus-mcpe-v1-4-2/ (Note: Duplicate link in original list)
+
+https://mcpedl.com/cordyceps-addon/
+
+https://www.curseforge.com/minecraft-bedrock/addons/blood-rot
+
+Supernatural & Terrifying Creatures:
+
+https://mcpedl.com/forgotten-prototype/
+
+https://mcpedl.com/xadurgie-entity-xaier-addon-terror/
+
+https://mcpedl.com/foreboding-project/ 
+
+
+|
+
+psychological horror:
+
+https://www.curseforge.com/minecraft-bedrock/addons/some-sunny-day
+
+
+https://mcpedl.com/foreboding-project/ 
+
+https://mcpedl.com/forgotten-prototype/
+
+
+
+
+
+
+
+
+|
+
+General Mob Additions:
+
+https://mcpedl.com/luminous-beasts-add-on/
+
+https://mcpedl.com/nico-s-mobs/
+
+4. SETTLEMENTS, VILLAGERS & NPCS
+
+(Mods that enhance or add new life to villages and allow for building communities.)
+
+Colony Building:
+
+https://mcpedl.com/jerrys-colonies/
+
+Villager Overhauls & Interactions:
+
+https://mcpedl.com/rule-villages-1-0-3/
+
+https://mcpedl.com/villager-soldier-vanilla-version-6-the-team-update/
+
+https://mcpedl.com/villagers-and-illagers-legacy/
+
+https://mcpedl.com/conqueror-of-villagers/
+
+https://mcpedl.com/more-professions-villagers-add-ons-beta/
+
+https://mcpedl.com/villagers-trade-unlocker/
+
+https://mcpedl.com/fantasy-villagers-remake-2-0/
+
+5. PLAYER UTILITY: GEAR, TOOLS & UI
+
+(Mods providing items and interfaces to help the player survive and explore.)
+
+Essential Gear:
+
+https://mcpedl.com/survival-backpacks-fws/
+
+https://www.curseforge.com/minecraft-bedrock/addons/true-backpack
+
+Lighting Equipment (Dynamic Lighting & Wearables):
+
+
+
+https://mcpedl.com/just-another-dynamic-add-by-four/
+
+https://mcpedl.com/dynamic-flashlight/
+
+https://mcpedl.com/miners-helmet/
+
+
+|
+
+optional lighting: 
+
+https://mcpedl.com/howard-dynamic-light/
+
+https://mcpedl.com/flicker-dynamic-lighting/
+
+https://mcpedl.com/blocky-flashlights/
+
+|
+
+
+
+Vehicles & Transportation:
+
+https://mcpedl.com/survival-helicopters-fws/   or    https://www.curseforge.com/minecraft-bedrock/addons/survival-helicopters-fws
+
+https://www.curseforge.com/minecraft-bedrock/addons/survival-helicopters-v1-5-4-new-helicopters-and-hydrogen
+
+https://www.curseforge.com/minecraft-bedrock/addons/minecars-addon-vanilla-looking-cars
+
+https://mcpedl.com/fours-minecart-upgrade/
+
+
+
+Tools & Defense:
+
+https://mcpedl.com/razor-wire-fws/
+
+https://mcpedl.com/wood-cutter-pack-1/
+
+https://mcpedl.com/dls-vanilla-excavators/
+https://www.curseforge.com/minecraft-bedrock/addons/sentry-blocks-fws
+
+User Interface (UI):
+
+
+https://mcpedl.com/magnificent-minimap/
+
+https://mcpedl.com/ui-queue%2f (Dependency)
+
+https://mcpedl.com/kamii-s-script-configuration%2f (Dependency)
+
+https://www.curseforge.com/minecraft-bedrock/addons/advanced-compass
+
+https://mcpedl.com/explorers-title/
+
+
+
+(OPTIONAL MOD THAT IS PERFORMANCE HEAVY: https://www.curseforge.com/minecraft-bedrock/addons/explorers-world-map )
+
+(Optional mod that is performance heavy: https://mcpedl.com/magnificent-minimap/  ) 
+
+6. RESOURCES, CRAFTING & AUTOMATION
+
+(Mods focused on new materials, recipes, and simple machinery.)
+
+New Resources & Items:
+
+https://mcpedl.com/more-ores-tools-renewed/
+
+https://www.curseforge.com/minecraft-bedrock/addons/nicos-item-expansion
+
+https://www.curseforge.com/minecraft-bedrock/addons/nicos-block-expansion
+
+https://mcpedl.com/keys-and-crates/
+
+Crafting & Recipes:
+
+https://mcpedl.com/useful-recipes-addon/
+
+https://mcpedl.com/recycle-recipes-addon/
+
+https://mcpedl.com/utilitycraft/ or https://www.curseforge.com/minecraft-bedrock/addons/utilitycraft
+
+Automation & Machinery:
+
+https://mcpedl.com/auto-miner/
+
+https://mcpedl.com/rail-craft-add-on/
+
+Misc. Activities:
+
+https://mcpedl.com/better-fishing-fws/
+
+7. AESTHETICS & IMMERSION
+
+(Mods that primarily improve the look and feel of the game.)
+
+Visuals:
+
+https://www.curseforge.com/minecraft-bedrock/addons/kwz-connected-glass
+
+Audio:
+
+https://mcpedl.com/refinesounds/
+
+
+
+
+
+
+|
+
+
+extra site to check for addons: https://bedrocktweaks.net/
+
+
+
+|
+
+optional shaders which migth degrade performance:
+
+https://www.curseforge.com/minecraft-bedrock/texture-packs/rg-shader-v2-1-renderdragon-support-2
+
+https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea
+
+
+
+|
+
+
+
+
+optional mods for dev stuff:
+
+https://www.curseforge.com/minecraft-bedrock/addons/gametest-interpreter/comments
+https://www.curseforge.com/minecraft-bedrock/addons/building-supporter
+
+https://www.curseforge.com/minecraft-bedrock/addons/pillage-generator-function-pack
+
+https://www.curseforge.com/minecraft-bedrock/addons/village-generator-function-pack
+|
+
+
+
+
+|
+
+optional sci-fi mods for other world:  
+
+https://www.curseforge.com/minecraft-bedrock/addons/serp-halobe
+https://www.curseforge.com/minecraft-bedrock/addons/the-ultimate-warthog
+
+
+|
+
+
+(optional big mod: https://www.curseforge.com/minecraft-bedrock/addons/blood-rot ) 
+
+
+
+|
+
+(optional overhaul mod that might conflict with many other mods: https://www.curseforge.com/minecraft-bedrock/addons/minecraft-updates-addon
+
+
+)
+
+(another overhaul mod which will conflict with stuff: https://www.curseforge.com/minecraft-bedrock/addons/the-everything-update-add-on-pack  ) 
+
+
+
+|
+
+optional experimental mods: https://www.curseforge.com/minecraft-bedrock/addons/infinite-backrooms-generator
+|
+
+more optional experimental mods:
+
+https://www.curseforge.com/minecraft-bedrock/addons/a-wardens-tale-add-on
+
+https://www.curseforge.com/minecraft-bedrock/addons/fallout-westers-redux
+
+https://www.curseforge.com/minecraft-bedrock/addons/water-rises-every-30-seconds
+https://www.curseforge.com/minecraft-bedrock/addons/water-is-lava
+
+https://www.curseforge.com/minecraft-bedrock/addons/bod
+
+https://www.curseforge.com/minecraft-bedrock/addons/rrespawn
+
+
+
+|
+
+
+
+
+
+
+
+
+
+|
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNSORTED:
+
+
+https://www.curseforge.com/minecraft-bedrock/texture-packs/more-beautiful-grass
+
+
+https://www.curseforge.com/minecraft-bedrock/texture-packs/no-lava-water-fog-b69-2
+
+
+https://www.curseforge.com/minecraft-bedrock/addons/expansive-ores-addon
+
+
+https://www.curseforge.com/minecraft-bedrock/addons/scp-lockdown-retake-version-0-2-1
+
+https://www.curseforge.com/minecraft-bedrock/addons/better-trees
+
+https://www.curseforge.com/minecraft-bedrock/addons/infinite-trades-by-four
+
+https://www.curseforge.com/minecraft-bedrock/addons/more-gold-by-four
+
+https://www.curseforge.com/minecraft-bedrock/addons/wireless-hopper-addon
+
+https://www.curseforge.com/minecraft-bedrock/addons/um-amethyst
+
+https://www.curseforge.com/minecraft-bedrock/addons/fours-craftable-gunpowder
+
+https://www.curseforge.com/minecraft-bedrock/addons/better-boats
+
+https://www.curseforge.com/minecraft-bedrock/addons/more-building-tools
+
+https://www.curseforge.com/minecraft-bedrock/addons/enhanced-mob-ai-smarter-mobs
+
+https://www.curseforge.com/minecraft-bedrock/scripts/clump
+
+https://www.curseforge.com/minecraft-bedrock/addons/explorers-dream
+
+https://www.curseforge.com/minecraft-bedrock/addons/realistic-food
+
+https://www.curseforge.com/minecraft-bedrock/addons/harvest-me
+
+https://www.curseforge.com/minecraft-bedrock/addons/stylax-wooden-railings
+
+https://www.curseforge.com/minecraft-bedrock/addons/better-foliage-bedrock-edition
+
+
+https://www.curseforge.com/minecraft-bedrock/addons/sky-fracture-sky-update
+
+https://www.curseforge.com/minecraft-bedrock/addons/abyssal-ascent-end-update-add-on
+
+
+https://www.curseforge.com/minecraft-bedrock/addons/fly-me-to-the-moon-space-exploration
+
+
+
+https://www.curseforge.com/minecraft-bedrock/addons/mutated-dweller
+
+
+https://mcpedl.com/darkage-bizarre-addon-remake/
+
+https://mcpedl.com/doodoocats-legends-addon/
+
+https://www.curseforge.com/minecraft-bedrock/addons/rpg-quest-2
+
