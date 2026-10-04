@@ -1,0 +1,1 @@
+{"format_version":"1.26.10","minecraft:item":{"description":{"identifier":"oreville_vn:odplew","menu_category":{"category":"items"}},"components":{"minecraft:display_name":{"value":"item.oreville_vn:odplew.name"},"minecraft:icon":{"textures":{"default":"oreville_vn.odplew"}},"minecraft:tags":{"tags":["t:odplew"]},"minecraft:wearable":{"slot":"slot.armor.head"}}}}
